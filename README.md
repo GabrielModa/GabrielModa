@@ -1,6 +1,7 @@
 ### 👋 I'm Gabriel Moda... Welcome to my GitHub!!!
 
-<div text"center">  <h2>About:</h2>  
+<div text"center">  <h2>About:</h2>
+
 - 🔭 I'm currently studying: Full Stack Web Development at <a href="https://www.betrybe.com/">@Trybe!</a>
 
 - 🤔 Hobby: 🎮 and cheer <a href="https://www.instagram.com/saopaulofc/">São Paulo 🔴⚪⚫</a> 
