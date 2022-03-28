@@ -22,6 +22,7 @@
 <img src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" style="width:50px;height:50px" alt="VS Code">
 <div>
 <br>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielModa&hide=&count_private=true&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielModa)](https://github.com/GabrielModa/github-readme-stats)
 
