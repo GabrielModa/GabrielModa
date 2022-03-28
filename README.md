@@ -9,7 +9,7 @@
 - 📫 How to reach me: <a href="mailto:gabriel-moda@hotmail.com">Send email !</a>
 
 
-- 📚 Aways learning:
+- 📚 Always learning:
   </div>
  <br>
 <div display"block">
