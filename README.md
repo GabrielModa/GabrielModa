@@ -2,9 +2,11 @@
 
 <div text"center">  <h2>About:</h2>  
 - 🔭 I'm currently studying: Full Stack Web Development at <a href="https://www.betrybe.com/">@Trybe!</a>
+
 - 🤔 Hobby: 🎮 and cheer <a href="https://www.instagram.com/saopaulofc/">São Paulo 🔴⚪⚫</a> 
+
 - 📫 How to reach me: <a href="mailto:gabriel-moda@hotmail.com">Send email !</a>
- <hr>
+
 
 - 📚 Aways learning:
   </div>
