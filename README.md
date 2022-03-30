@@ -19,18 +19,18 @@
 - 📚 Always learning:
   </div>
  <br>
-<div display"inline" style="max-width:80%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width:10%;height:5%" alt="html5">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width:10%;height:5%" alt="css3">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width:10%;height:10%" alt="Javascript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width:10%;height:10%" alt="React">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="width:10%;height:10%" alt="Redux">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="width:10%;height:10%" alt="docker">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" style="width:10%;height:10%" alt="mysql">
-<img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo-300x300.png" style="width:10%;height:10%" alt="NodeJs">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="width:10%;height:10%" alt="Typescript_logo_2020">
-<img src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" style="width:50px;height:50px" alt="VS Code">
-<div>
+<div display"inline">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="5%" height:"5%" "html5">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="5%" height:"5%" alt="css3">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="5%" height:"5%"  alt="Javascript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="5%" height:"5%"  alt="React">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="5%" height:"5%" alt="Redux">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="5%" height:"5%"  alt="docker">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" width="5%" height:"5%" alt="mysql">
+<img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo-300x300.png" width="5%" height:"5%" alt="NodeJs">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="5%" height:"5%"  alt="Typescript_logo_2020">
+<img src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" width="5%" height:"5%" alt="VS Code">
+</div>
 <br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielModa&hide=&count_private=true&show_icons=true&theme=gotham)
