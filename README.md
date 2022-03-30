@@ -19,7 +19,7 @@
 - 📚 Always learning:
   </div>
  <br>
-<div display"inline-block">
+<div display"inline" style="max-width:80%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width:10%;height:5%" alt="html5">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width:10%;height:5%" alt="css3">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width:10%;height:10%" alt="Javascript">
